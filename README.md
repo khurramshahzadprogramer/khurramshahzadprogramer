@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=340&color=0:030303,35:120c26,70:2a1066,100:5b21b6&text=KHURRAM%20SHAHZAD&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Intelligent%20Automation&descAlignY=61&descSize=18&descColor=ddd6fe&animation=fadeIn" width="100%" alt="Khurram Shahzad"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,35:120c26,70:2a1066,100:5b21b6&height=300&section=header&text=KHURRAM%20SHAHZAD&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Intelligent%20Automation&descAlignY=58&descSize=17&descColor=ddd6fe&animation=fadeIn" width="100%" alt="Khurram Shahzad"/>
 
 <a href="https://portfoliobyks.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=860&height=50&lines=%3E+Building+AI-powered+systems...;%3E+Teaching+LLMs+to+use+tools+%26+APIs...;%3E+Designing+autonomous+agent+workflows...;%3E+Shipping+interactive+web+experiences...;%3E+Young+developer.+Big+direction.+%F0%9F%9A%80" alt="Typing animation"/>
@@ -17,7 +17,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=khurramshahzadprogramer&label=PROFILE+VIEWS&color=7B2FBE&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/khurramshahzadprogramer?label=FOLLOWERS&style=for-the-badge&color=A855F7&labelColor=111111" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/khurramshahzadprogramer?label=STARS&style=for-the-badge&color=A855F7&labelColor=111111" alt="Stars"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhurramshahzadprogramer&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=A855F7&labelColor=111111" alt="Public repos"/>
 <img src="https://img.shields.io/badge/BASED%20IN-PAKISTAN%20%F0%9F%87%B5%F0%9F%87%B0-0d3b1f?style=for-the-badge&labelColor=111111" alt="Pakistan"/>
 
 <br/><br/>
@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 👤 About
 
@@ -73,7 +73,7 @@ I started with **web development** (my foundation for building interfaces and pr
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🧠 AI Blueprint
 
@@ -142,7 +142,7 @@ mindmap
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## ⚙️ Tech Arsenal
 
@@ -197,7 +197,7 @@ mindmap
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -324,7 +324,7 @@ Experimenting with AI applications, agents, automation and intelligent workflows
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🛠️ What I Can Build
 
@@ -342,7 +342,7 @@ Experimenting with AI applications, agents, automation and intelligent workflows
 > [!TIP]
 > Have an idea, a small project or something you'd like to learn and build together? **[Message me](mailto:khurramshahzad9976@gmail.com)** — I'm always up for it.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🧭 My Journey
 
@@ -362,7 +362,7 @@ flowchart LR
     style F fill:#5b21b6,stroke:#ddd6fe,color:#fff
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🎯 Currently
 
@@ -392,7 +392,7 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🏆 Achievements
 
@@ -404,9 +404,6 @@ flowchart LR
 
 Successfully completed **AI Summer School 2026**, strengthening my foundation in Artificial Intelligence and emerging AI technologies.
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=khurramshahzadprogramer&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" width="98%" alt="GitHub trophies"/>
 
 </div>
 
@@ -420,27 +417,28 @@ Successfully completed **AI Summer School 2026**, strengthening my foundation in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khurramshahzadprogramer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&rank_icon=github" alt="GitHub stats"/>
-<img width="48%" src="https://streak-stats.demolab.com/?user=khurramshahzadprogramer&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramshahzadprogramer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=12" alt="Top languages"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=khurramshahzadprogramer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues&border_radius=12" alt="GitHub activity"/>
+<img src="https://img.shields.io/github/followers/khurramshahzadprogramer?label=FOLLOWERS&style=for-the-badge&color=A855F7&labelColor=111111" alt="Followers"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhurramshahzadprogramer&query=%24.following&label=FOLLOWING&style=for-the-badge&color=7B2FBE&labelColor=111111" alt="Following"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkhurramshahzadprogramer&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&color=5B21B6&labelColor=111111" alt="Public repos"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khurramshahzadprogramer&bg_color=0d1117&color=A855F7&line=7B2FBE&point=FFFFFF&area=true&hide_border=true&custom_title=Khurram%20Shahzad%20%E2%80%A2%20Contribution%20Activity" width="98%" alt="Contribution activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=khurramshahzadprogramer&theme=tokyonight&hide_border=true&border_radius=12" width="75%" alt="GitHub streak"/>
+
+<br/><br/>
+
+<a href="https://github.com/khurramshahzadprogramer?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%93%82%20ALL%20REPOSITORIES-7B2FBE?style=for-the-badge&labelColor=111111" alt="All repositories"/></a>
+<a href="https://github.com/khurramshahzadprogramer?tab=followers"><img src="https://img.shields.io/badge/%F0%9F%91%A5%20FOLLOW%20ME-A855F7?style=for-the-badge&labelColor=111111" alt="Follow me"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,100:030303&height=2" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
 
@@ -464,10 +462,6 @@ Successfully completed **AI Summer School 2026**, strengthening my foundation in
 <a href="https://portfoliobyks.netlify.app/">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20MY%20FULL%20PORTFOLIO-7B2FBE?style=for-the-badge&labelColor=0F0C29" alt="Open portfolio"/>
 </a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote"/>
 
 <br/><br/>
 
