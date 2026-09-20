@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,35:120c26,70:2a1066,100:5b21b6&height=300&section=header&text=KHURRAM%20SHAHZAD&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Agentic%20AI%20%E2%80%A2%20Intelligent%20Automation&descAlignY=58&descSize=17&descColor=ddd6fe&animation=fadeIn" width="100%" alt="Khurram Shahzad"/>
+<img src="assets/banner.svg" width="100%" alt="Khurram Shahzad — AI Engineering • Agentic AI • Intelligent Automation"/>
 
 <a href="https://portfoliobyks.netlify.app/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=860&height=50&lines=%3E+Building+AI-powered+systems...;%3E+Teaching+LLMs+to+use+tools+%26+APIs...;%3E+Designing+autonomous+agent+workflows...;%3E+Shipping+interactive+web+experiences...;%3E+Young+developer.+Big+direction.+%F0%9F%9A%80" alt="Typing animation"/>
@@ -22,13 +22,13 @@
 
 <br/><br/>
 
-<a href="https://portfoliobyks.netlify.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20PORTFOLIO-7B2FBE?style=for-the-badge&labelColor=0F0C29" alt="Portfolio"/></a>
-<a href="mailto:khurramshahzad9976@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20HIRE%20%2F%20COLLABORATE-D14836?style=for-the-badge&labelColor=0F0C29" alt="Email"/></a>
-<a href="https://wa.me/message/OSBMQ260M6XDA"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20WHATSAPP-25D366?style=for-the-badge&labelColor=0F0C29" alt="WhatsApp"/></a>
+<a href="https://portfoliobyks.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0F0C29" alt="Portfolio"/></a>
+<a href="mailto:khurramshahzad9976@gmail.com"><img src="https://img.shields.io/badge/HIRE%20%2F%20COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0C29" alt="Email"/></a>
+<a href="https://wa.me/message/OSBMQ260M6XDA"><img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0F0C29" alt="WhatsApp"/></a>
 
 <br/><br/>
 
-<a href="#-about"><b>ABOUT</b></a> &nbsp;•&nbsp;
+<a href="#-about-me"><b>ABOUT</b></a> &nbsp;•&nbsp;
 <a href="#-ai-blueprint"><b>AI BLUEPRINT</b></a> &nbsp;•&nbsp;
 <a href="#-tech-arsenal"><b>STACK</b></a> &nbsp;•&nbsp;
 <a href="#-featured-projects"><b>PROJECTS</b></a> &nbsp;•&nbsp;
@@ -42,38 +42,33 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 👤 About
+## 👤 About Me
 
-<img align="right" alt="Coding animation" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="400" src="assets/profile-card.svg" alt="Developer profile card — Khurram Shahzad, AI-focused developer from Pakistan"/>
 
-```bash
-khurram@github:~$ whoami
-khurram-shahzad
+### 👋 Hey, I'm Khurram
 
-khurram@github:~$ cat profile.txt
-name       : Khurram Shahzad
-role       : AI-Focused Developer
-location   : Pakistan 🇵🇰
-focus      : AI Engineering · Agentic AI · AI Automation
-languages  : Python · JavaScript · HTML · CSS
-learning   : LLM Apps · AI Agents · Tool Calling · APIs
-mission    : Build systems where AI is the engine, not a feature
-contact    : khurramshahzad9976@gmail.com
-status     : 🟢 Learning • Building • Shipping
-```
+I'm a **young developer from Pakistan** with one clear direction: go **beyond chat interfaces** and build **real software systems powered by AI** — agents that reason, use tools, call APIs and finish multi-step work.
 
-I'm a **young developer from Pakistan** with one clear direction: go beyond chat interfaces and build **real software systems powered by AI** — agents that reason, use tools, call APIs and complete multi-step work.
+I started with **web development** — where I learned to turn ideas into interfaces and products — and I'm now going deep into **AI Engineering, Agentic AI and intelligent automation**.
 
-I started with **web development** (my foundation for building interfaces and products) and I'm now going deep into **AI Engineering, Agentic AI and intelligent automation**.
+**What drives me**
+
+- 🧩 Making AI a *part of* real software, not just an add-on
+- 🔌 Connecting LLMs with tools, APIs and workflows
+- 🚀 Turning ideas into projects I can actually ship
+- 📚 Learning something new about AI every single day
 
 > [!NOTE]
 > **My goal isn't just to *use* AI — it's to learn how to *build systems around it*.**
 
+📩 **Reach me:** [khurramshahzad9976@gmail.com](mailto:khurramshahzad9976@gmail.com)
+
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧠 AI Blueprint
 
@@ -142,7 +137,7 @@ mindmap
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ⚙️ Tech Arsenal
 
@@ -197,7 +192,7 @@ mindmap
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Featured Projects
 
@@ -324,7 +319,7 @@ Experimenting with AI applications, agents, automation and intelligent workflows
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🛠️ What I Can Build
 
@@ -342,7 +337,7 @@ Experimenting with AI applications, agents, automation and intelligent workflows
 > [!TIP]
 > Have an idea, a small project or something you'd like to learn and build together? **[Message me](mailto:khurramshahzad9976@gmail.com)** — I'm always up for it.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧭 My Journey
 
@@ -362,7 +357,7 @@ flowchart LR
     style F fill:#5b21b6,stroke:#ddd6fe,color:#fff
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎯 Currently
 
@@ -392,7 +387,7 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🏆 Achievements
 
@@ -417,7 +412,7 @@ Successfully completed **AI Summer School 2026**, strengthening my foundation in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 📊 GitHub Analytics
 
@@ -438,7 +433,7 @@ Successfully completed **AI Summer School 2026**, strengthening my foundation in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:a855f7,100:5b21b6&height=2" width="100%" alt=""/>
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🤝 Let's Connect
 
@@ -448,19 +443,47 @@ Successfully completed **AI Summer School 2026**, strengthening my foundation in
 
 <br/>
 
-| Platform | Best for | Link |
-|:---:|:---:|:---:|
-| 📧 **Email** | Projects & collaborations | <a href="mailto:khurramshahzad9976@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> |
-| 💬 **WhatsApp** | Quick chat | <a href="https://wa.me/message/OSBMQ260M6XDA"><img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> |
-| 💼 **LinkedIn** | Professional network | <a href="https://linkedin.com/in/khurramshahzad15"><img src="https://img.shields.io/badge/LinkedIn-Khurram%20Shahzad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-| 🐙 **GitHub** | Code & projects | <a href="https://github.com/khurramshahzadprogramer"><img src="https://img.shields.io/badge/GitHub-khurramshahzadprogramer-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| 📸 **Instagram** | Behind the scenes | <a href="https://instagram.com/khurram_x_rajput"><img src="https://img.shields.io/badge/Instagram-khurram__x__rajput-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> |
-| 👍 **Facebook** | Updates | <a href="https://facebook.com/share/194Ya7pqi/"><img src="https://img.shields.io/badge/Facebook-Khurram%20Shahzad-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> |
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="mailto:khurramshahzad9976@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<br/><b>Email</b>
+<br/><sub>Projects &amp; collaborations</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://wa.me/message/OSBMQ260M6XDA"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<br/><b>WhatsApp</b>
+<br/><sub>Quick chat</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://linkedin.com/in/khurramshahzad15"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<br/><b>LinkedIn</b>
+<br/><sub>Professional network</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/khurramshahzadprogramer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<br/><b>GitHub</b>
+<br/><sub>Code &amp; projects</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://instagram.com/khurram_x_rajput"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<br/><b>Instagram</b>
+<br/><sub>@khurram_x_rajput</sub>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://facebook.com/share/194Ya7pqi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<br/><b>Facebook</b>
+<br/><sub>Updates &amp; posts</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
 <a href="https://portfoliobyks.netlify.app/">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20OPEN%20MY%20FULL%20PORTFOLIO-7B2FBE?style=for-the-badge&labelColor=0F0C29" alt="Open portfolio"/>
+  <img src="https://img.shields.io/badge/OPEN%20MY%20FULL%20PORTFOLIO-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0F0C29" alt="Open portfolio"/>
 </a>
 
 <br/><br/>
@@ -469,6 +492,6 @@ Successfully completed **AI Summer School 2026**, strengthening my foundation in
 
 <a href="#top"><img src="https://img.shields.io/badge/%E2%AC%86%20BACK%20TO%20TOP-A855F7?style=for-the-badge&labelColor=111111" alt="Back to top"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:030303,50:120c26,100:5b21b6&text=Thanks%20for%20visiting%20%F0%9F%92%9C&fontSize=20&fontColor=ddd6fe&fontAlignY=68" width="100%" alt="Footer"/>
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting"/>
 
 </div>
