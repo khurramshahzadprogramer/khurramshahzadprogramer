@@ -1,13 +1,266 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,40:302b63,100:24243e&text=Khurram%20Shahzad&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=🤖%20AI%20Engineer%20%20•%20%20⚡%20Agentic%20AI%20%20•%20%20💻%20AI%20Developer&descAlignY=57&descSize=16&animation=fadeIn" width="100%"/>
-</div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KHURRAM%20SHAHZAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%20AGENTIC%20SYSTEMS%20%2F%20AUTOMATION&descAlignY=58&descSize=13&animation=fadeIn&color=0:050505,50:111827,100:1e1b4b" width="100%"/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=%3E+Initializing+AI+Engineering+workspace...;%3E+Exploring+Agentic+AI+systems...;%3E+Connecting+models%2C+tools+%26+APIs...;%3E+Automating+real-world+workflows...;%3E+Building+intelligent+products..." alt="Typing Animation"/><br/><br/>
 
-<br/>
+<a href="https://github.com/khurramshahzadprogramer">
+<img src="https://img.shields.io/badge/GitHub-Khurram%20Shahzad-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/khurramshahzad15">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfoliobyks.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a></div>---
 
-<div align="center">
+"01" — SYSTEM PROFILE
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Systems...;Exploring+Agentic+AI+%26+AI+Automation...;Creating+Intelligent+Web+Applications...;Learning+AI+Engineering+Step+by+Step...;Turning+Ideas+into+Real+Projects...)](https://git.io/typing-svg)
+┌─────────────────────────────────────────────────────────────┐
+│                     KHURRAM SHAHZAD                         │
+├─────────────────────────────────────────────────────────────┤
+│ Role        : AI-Focused Developer                          │
+│ Direction   : AI Engineering + Agentic AI                   │
+│ Interests   : Agents • Automation • APIs • AI Workflows     │
+│ Secondary   : Modern Web Development                        │
+│ Location    : Pakistan                                      │
+│ Status      : Learning • Building • Experimenting          │
+└─────────────────────────────────────────────────────────────┘
 
+I’m Khurram Shahzad, an AI-focused developer exploring the space where AI models, software, automation and intelligent workflows come together.
+
+My main direction is not simply building websites or applications.
+
+I’m interested in understanding how software can become more intelligent, connected and autonomous — from AI-powered applications and API integrations to agentic workflows and tool-driven systems.
+
+«Build software. Connect intelligence. Automate the work.»
+
+---
+
+"02" — CURRENT DIRECTION
+
+<div align="center">🤖 AI ENGINEERING
+
+AI Applications · LLM Integrations · Prompt Engineering · AI APIs
+
+   
+
+🧠 AGENTIC AI
+
+AI Agents · Tool Calling · Multi-Step Reasoning · Orchestration
+
+   
+
+⚡ AUTOMATION
+
+AI Workflows · API Automation · Intelligent Processes
+
+   
+
+🔗 INTEGRATIONS
+
+APIs · External Tools · Services · AI + Web
+
+</div>---
+
+"03" — THE STACK
+
+<div align="center">Intelligence Layer
+
+<img src="https://skillicons.dev/icons?i=python,openai&theme=dark" /><br/>"AI APIs" · "LLMs" · "AI Agents" · "Automation" · "Tool Calling" · "AI Workflows"
+
+<br/><br/>
+
+Application Layer
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" /><br/>"Interactive Web Apps" · "Responsive UI" · "API Integration" · "AI-Powered Interfaces"
+
+<br/><br/>
+
+Engineering Layer
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" /><br/>"Git" · "GitHub" · "VS Code" · "Vercel"
+
+</div>---
+
+"04" — BUILD LOG
+
+🛒 KS Outlets
+
+E-Commerce Experience
+
+A practical e-commerce project focused on product discovery, categories, cart and checkout flows.
+
+Focus:
+"E-Commerce" "UI/UX" "Product Systems" "Web Development"
+
+---
+
+💎 Jewel Blast
+
+Interactive Web Experience
+
+An interactive browser project designed around gameplay, visual interaction and user engagement.
+
+Focus:
+"JavaScript" "Interaction" "UI" "Browser Experience"
+
+---
+
+🧮 Smart Calculator
+
+Utility Application
+
+A focused utility project combining practical functionality with a clean interactive interface.
+
+Focus:
+"JavaScript" "Logic" "UI" "Web Application"
+
+---
+
+🧠 Sequence Memory
+
+Interactive Memory System
+
+An interactive challenge built around sequence recognition, memory and user interaction.
+
+Focus:
+"JavaScript" "Game Logic" "Interaction"
+
+---
+
+⚡ Neon Memory Challenge
+
+Futuristic Interactive Experience
+
+A neon-inspired interactive project designed around memory-based interaction and visual feedback.
+
+Focus:
+"Interactive UI" "Game Logic" "Animation"
+
+---
+
+🛡️ Cyber Rescue Hero
+
+Cyber-Themed Interactive Project
+
+A futuristic cyber experience combining interactive elements with a technology-focused visual direction.
+
+Focus:
+"Interactive Web" "Cyber Theme" "UI/UX"
+
+---
+
+💻 Cyber Hacker
+
+Digital Cyber Experience
+
+A cyber-inspired project experimenting with futuristic interfaces and interactive web experiences.
+
+Focus:
+"Web Interaction" "Cyber UI" "Creative Development"
+
+---
+
+"05" — WHAT I'M EXPLORING
+
+AI
+├── LLM Applications
+├── AI Agents
+├── Agentic Workflows
+├── Tool Calling
+├── API Integrations
+└── Intelligent Automation
+
+ENGINEERING
+├── Python
+├── JavaScript
+├── Web Applications
+├── Git & GitHub
+└── Deployment
+
+SYSTEM THINKING
+├── Workflow Design
+├── Automation Logic
+├── Model + Tool Connections
+└── Real-World AI Products
+
+---
+
+"06" — DEVELOPMENT PHILOSOPHY
+
+<div align="center">DON'T JUST ADD AI.
+
+DESIGN THE SYSTEM AROUND IT.
+
+</div>I’m interested in the complete flow:
+
+Problem → Intelligence → Tools → Workflow → Automation → Result
+
+The goal is to move beyond simple AI demos and gradually understand how intelligent systems can solve useful real-world problems.
+
+---
+
+"07" — GITHUB SIGNAL
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=khurramshahzadprogramer&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=A78BFA&text_color=9CA3AF&bg_color=00000000&rank_icon=github" width="48%"/><img src="https://streak-stats.demolab.com/?user=khurramshahzadprogramer&hide_border=true&background=00000000&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=9CA3AF&dates=6B7280" width="48%"/><br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khurramshahzadprogramer&layout=compact&hide_border=true&theme=transparent&title_color=A78BFA&text_color=9CA3AF&bg_color=00000000&langs_count=8" width="48%"/></div>---
+
+"08" — ACTIVITY
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=khurramshahzadprogramer&bg_color=00000000&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=KHURRAM%20SHAHZAD%20%2F%20BUILD%20ACTIVITY" width="96%"/></div>---
+
+"09" — MILESTONE
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=khurramshahzadprogramer&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="95%"/></div><br/><div align="center">🏅 AI SUMMER SCHOOL 2026
+
+Panaversity — Certificate of Achievement
+
+</div>---
+
+"10" — BEYOND THE SCREEN
+
+<div align="center"><a href="https://portfoliobyks.netlify.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a><a href="https://linkedin.com/in/khurramshahzad15">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/khurramshahzadprogramer">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br/><br/>
+
+<a href="https://instagram.com/khurram_x_rajput">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a><a href="https://facebook.com/share/194Ya7pqi/">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a><a href="https://wa.me/message/OSBMQ260M6XDA">
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a><br/><br/>
+
+<a href="mailto:khurramshahzad9976@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div>---
+
+"11" — OPEN SOURCE / BUILDING NEXT
+
+[ ACTIVE ]
+
+→ Strengthening AI Engineering fundamentals
+→ Building practical AI-powered projects
+→ Exploring AI agents and automation
+→ Learning advanced API integrations
+→ Experimenting with intelligent workflows
+
+[ NEXT ]
+
+→ More autonomous AI systems
+→ Tool-connected agents
+→ AI automation products
+→ Production-oriented AI applications
+
+---
+
+<div align="center"><br/>"THE NEXT SYSTEM IS BUILT, NOT WAITED FOR."
+
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,50:111827,100:1e1b4b&animation=fadeIn" width="100%"/></div>
 </div>
 
 <br/>
